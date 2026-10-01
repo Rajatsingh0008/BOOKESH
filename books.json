@@ -1,0 +1,136 @@
+[
+  [
+    {
+      "id": 1,
+      "title": "NCERT Mathematics Class 10",
+      "author": "NCERT",
+      "type": "exchange",
+      "price": 0,
+      "condition": "Good",
+      "contact": "demo1@example.com",
+      "lat": 28.6139,
+      "lng": 77.209,
+      "addedAt": 1727700000000
+    },
+    {
+      "id": 2,
+      "title": "Wren & Martin English Grammar",
+      "author": "P.C. Wren",
+      "type": "sell",
+      "price": 120,
+      "condition": "Like New",
+      "contact": "demo2@example.com",
+      "lat": 28.62,
+      "lng": 77.215,
+      "addedAt": 1727690000000
+    },
+    {
+      "id": 3,
+      "title": "NCERT Science Class 9",
+      "author": "NCERT",
+      "type": "new",
+      "price": 95,
+      "condition": "Like New",
+      "contact": "demo3@example.com",
+      "lat": 28.605,
+      "lng": 77.2,
+      "addedAt": 1727680000000
+    },
+    {
+      "id": 4,
+      "title": "R.D. Sharma Mathematics",
+      "author": "R.D. Sharma",
+      "type": "sell",
+      "price": 180,
+      "condition": "Good",
+      "contact": "demo4@example.com",
+      "lat": 28.625,
+      "lng": 77.22,
+      "addedAt": 1727670000000
+    },
+    {
+      "id": 5,
+      "title": "NCERT Social Science Class 8",
+      "author": "NCERT",
+      "type": "exchange",
+      "price": 0,
+      "condition": "Good",
+      "contact": "demo5@example.com",
+      "lat": 28.6,
+      "lng": 77.21,
+      "addedAt": 1727660000000
+    },
+    {
+      "id": 6,
+      "title": "Oxford English Dictionary Junior",
+      "author": "Oxford",
+      "type": "new",
+      "price": 150,
+      "condition": "Like New",
+      "contact": "demo6@example.com",
+      "lat": 28.618,
+      "lng": 77.205,
+      "addedAt": 1727650000000
+    },
+    {
+      "id": 7,
+      "title": "NCERT Hindi Vasant Class 7",
+      "author": "NCERT",
+      "type": "exchange",
+      "price": 0,
+      "condition": "Like New",
+      "contact": "demo7@example.com",
+      "lat": 28.61,
+      "lng": 77.225,
+      "addedAt": 1727640000000
+    },
+    {
+      "id": 8,
+      "title": "Lucent General Knowledge",
+      "author": "Lucent",
+      "type": "sell",
+      "price": 90,
+      "condition": "Good",
+      "contact": "demo8@example.com",
+      "lat": 28.63,
+      "lng": 77.21,
+      "addedAt": 1727630000000
+    }
+  ],
+  {
+    "id": 1790877737033,
+    "title": "mt",
+    "author": "8",
+    "type": "exchange",
+    "price": 0,
+    "condition": "Like New",
+    "contact": "",
+    "lat": 28.64462393880644,
+    "lng": 77.14475469820957,
+    "addedAt": 1790877737029
+  },
+  {
+    "id": 1790877781631,
+    "title": "math class 8",
+    "author": "NCERT",
+    "type": "sell",
+    "price": 200,
+    "condition": "Like New",
+    "contact": "",
+    "lat": 28.55718308583872,
+    "lng": 77.25533848715783,
+    "addedAt": 1790877781628
+  },
+  {
+    "id": 1790877835813,
+    "title": "PHYSICS",
+    "author": "H.C.VERMA",
+    "type": "new",
+    "price": 900,
+    "condition": "Like New",
+    "contact": "",
+    "lat": 28.685340557921002,
+    "lng": 77.14519187864362,
+    "addedAt": 1790877835811
+  }
+]
