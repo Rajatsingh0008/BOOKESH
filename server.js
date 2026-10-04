@@ -14,7 +14,7 @@ app.use("/api/books", bookRoutes);
 
 // Frontend
 app.get("/", (req, res) => {
-    res.sendFile(path.join(__dirname, "frontend.html"));
+    res.sendFile(path.join(__dirname, "index.html"));
 });
 
 const PORT = 5001;
